@@ -1,0 +1,14 @@
+body{
+    font-family: fantasy, sans-serif;
+    background-color: coral;
+}
+h1{
+    color: aqua;
+    font-size: 70px;
+    text-align: center;
+}
+p{
+    background-blend-mode: lighten; 
+    text-align: center;
+        
+}
